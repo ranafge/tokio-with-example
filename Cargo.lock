@@ -284,6 +284,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "tokio-test"
+version = "0.1.0"
+
+[[package]]
 name = "tracing"
 version = "0.1.40"
 source = "registry+https://github.com/rust-lang/crates.io-index"
